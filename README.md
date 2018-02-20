@@ -1,0 +1,2 @@
+# RubyScraps
+Some Ruby scripts
